@@ -1,5 +1,5 @@
 # Wealth-of-nations-with-Tableau
-#Aim: To analyze the Data of different Nations and getting trends out of it.
+Aim: To analyze the Data of different Nations and getting trends out of it.
 
 The Data "Wealth of Nations" gives all information about different countries GDP,Life-expetency and Smartphone users details.
 
